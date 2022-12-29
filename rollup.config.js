@@ -11,13 +11,13 @@ export default {
     output: [
         {
             name: 'index.js',
-            file: pkg.browser,
+            file: pkg.main,
             format: 'iife',
             sourcemap: 'inline',
         },
         {
             name: 'index.js',
-            file: pkg.browser.replace('.js', '.min.js'),
+            file: pkg.main.replace('.js', '.min.js'),
             format: 'iife',
             plugins: [terser()],
         },
