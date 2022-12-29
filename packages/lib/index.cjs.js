@@ -1,8 +1,0 @@
-'use strict';
-
-const sum = (x, y) => {
-    return x + y;
-};
-
-exports.sum = sum;
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguY2pzLmpzIiwic291cmNlcyI6WyIuLi8uLi9zcmMvbWF0aHMvc3VtLnRzIl0sInNvdXJjZXNDb250ZW50IjpbImNvbnN0IHN1bSA9ICh4OiBudW1iZXIsIHk6IG51bWJlcik6IG51bWJlciA9PiB7XHJcbiAgICByZXR1cm4geCArIHlcclxufVxyXG5cclxuZXhwb3J0IHsgc3VtIH1cclxuIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQUEsTUFBTSxHQUFHLEdBQUcsQ0FBQyxDQUFTLEVBQUUsQ0FBUyxLQUFZO0lBQ3pDLE9BQU8sQ0FBQyxHQUFHLENBQUMsQ0FBQTtBQUNoQjs7OzsifQ==
