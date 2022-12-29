@@ -9,6 +9,10 @@
     "dsp",
     "typescript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shunsukeoka/orca-js.git"
+  },
   "type": "module",
   "main": "index.js",
   "types": "types/index.d.ts",
