@@ -14,8 +14,10 @@
     "url": "https://github.com/shunsukeoka/orca-js.git"
   },
   "type": "module",
-  "main": "./lib/index.js",
-  "types": "./lib/index.d.ts",
+  "main": "./packages/lib/index.cjs.js",
+  "module": "./packages/lib/index.esm.js",
+  "unpkg": "./packages/lib/index.umd.js",
+  "types": "./packages/lib/index.d.ts",
   "files": [
     "package.json",
     "README.md",
